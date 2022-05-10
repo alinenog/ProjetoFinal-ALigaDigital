@@ -1,17 +1,17 @@
-# 🚀 Projeto Final <Vem.Ser.Dev/> Liga Digital 
+# 🚀 Projeto Final <Vem.Ser=Dev/> Liga Digital 
 
+<div>
 
- ## Criação de uma Api <br>
- 🍇 Lista de Hortifruti 🛒 🍓
+ <h2> Criação de uma Api </h2>
+🍓 Lista de Hortifruti 🛒 🍉🍇  <br/><br/>
  <br/>
-____________________________________________________
 
-#### 🚧 Para rodar a aplicação será necessário instalar:
+### 🚧 Para rodar a aplicação será necessário instalar: <br/>
+✔️ npm install  
+</div>
+____________________________________________________________________
 
-npm install  
-
-__________________________________________
-## Para rodar a aplicação 
+### Rodando a aplicação
 
 - `Iniciar o back-end`<br/>
 Dentro da pasta back-end rode o seginte comando <br>
@@ -21,9 +21,11 @@ Dentro da pasta back-end rode o seginte comando <br>
 Dentro da pasta front-end/orti-frutti rode o seginte comando <br>
  ✔️npm start
   <br> <br>
-> ###  Informação adicionais
 
-Primeiramente é necessario rodar o Back-end e em seguida rodar o Front-end 
+### ✳️ Informação adicionais
+Primeiramente é necessário rodar o Back-end e em seguida rodar o Front-end 
+<br> <br>
+
 ## Framework e linguagens ultilizadas
 _____________________________________
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
