@@ -1,29 +1,41 @@
-# 🚀  Projeto Final < Vem.Ser.Dev/> Liga Digital 
+# 🚀 Projeto Final <Vem.Ser.Dev/> Liga Digital 
 
 
- Criação de uma Api
- > Lista de supermecado 🛒
-_______________________________________________________
+ ## Criação de uma Api <br>
+ 🍇 Lista de Hortifruti 🛒 🍓
+ <br/>
+____________________________________________________
 
+#### 🚧 Para rodar a aplicação será necessário instalar:
 
-## 🚧 Para rodar o projeto será necessario:
+npm install  
 
+__________________________________________
+## Para rodar a aplicação 
 
-npm install |  express ou npm install 
+- `Iniciar o back-end`<br/>
+Dentro da pasta back-end rode o seginte comando <br>
+✔️npm run start:dev
 
-________________________________________________________
-Passo 1 Iniciando o Back-End, rodar o npm no projeto com o comando npm install
+- `Iniciar o frond-end`<br/>
+Dentro da pasta front-end/orti-frutti rode o seginte comando <br>
+ ✔️npm start
+  <br> <br>
+> ###  Informação adicionais
 
-Passo 2 Caso não tenha o webpack instalado, rodar o comando npm link webpack
-
-Passo 3 Para rodar a API - npm start
-
-Passo 4 Iniciando o Front-End, rodar o npm no projeto com o comando npm install
-
-Passo 5 Rodar o comando npm install antd
-
-Passo 6 Para rodar o Front-End é necessário trocar a port , exemplo: npm run start --port 3001
-
-Passo 7 Aparecendo a mensagem no terminal, "? Something is already running on port 3000" dar um Yes.
-
-
+Primeiramente é necessario rodar o Back-end e em seguida rodar o Front-end 
+## Framework e linguagens ultilizadas
+_____________________________________
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/<DBeaver>-<light blue>">
+<img src="">
