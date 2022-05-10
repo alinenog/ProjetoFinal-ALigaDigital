@@ -27,7 +27,7 @@ Primeiramente é necessário rodar o Back-end e em seguida rodar o Front-end
 <br> <br>
 
 ## Framework e linguagens ultilizadas
-_____________________________________
+<div  display: inline-block>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
@@ -40,4 +40,4 @@ _____________________________________
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/<DBeaver>-<light blue>">
-<img src="">
+</div>
