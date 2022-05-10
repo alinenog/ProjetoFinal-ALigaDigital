@@ -1,9 +1,9 @@
-/*Back esta funcionando na porta 3007 */
+/*Back esta funcionando na porta 3010 */
 import axios from 'axios'
 
-/*Criando ponto de conexxão */
+/*Criando ponto de conexão */
 const api = axios.create({
-    baseURL:'http://localhost:3000'
+    baseURL:'http://localhost:3007'
 })
 
 export default api;
