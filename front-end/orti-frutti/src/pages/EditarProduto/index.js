@@ -31,7 +31,7 @@ export default function EditarProduto(){
     }
 
     return(
-       <div className='produto_container'>
+       <div className='produto_container'> 
            <h1>Editar Produto</h1>
            <br/>
            <div className='produto_edit'>

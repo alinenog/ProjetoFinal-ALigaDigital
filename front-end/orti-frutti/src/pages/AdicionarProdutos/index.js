@@ -24,7 +24,7 @@ export default function AdicionarProdutos(){
 
     return (
         <div className='produto_container'>
-            <h1>Adicionar novo produto</h1>
+            <h1 className='box'>ADICIONAR NOVO PRODUTO</h1>
             <br/>
 
             <div>

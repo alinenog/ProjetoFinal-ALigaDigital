@@ -17,7 +17,9 @@ function App() {
   return (
     <div className="main">
       <Layout className='main_content'>
-        <Header className='header'>Header</Header>
+        <Header className='header'>
+          Horti Fruti 
+        </Header>
         <Layout >
           <Sider className='menu'>
             <Menu className='menu_section'>

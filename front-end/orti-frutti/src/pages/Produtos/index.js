@@ -1,4 +1,5 @@
 /*Produtos*/
+/*Relação de todos os produtos*/
 import React, { useEffect, useState } from "react";
 import { useHistory } from 'react-router-dom'
 import { Button, Card} from 'antd';
@@ -21,7 +22,7 @@ export default function Produtos(){
 
     return(
         <div className="produto_container">
-            <h1>Relação de todos os produtos</h1>
+            <h1 className="box">RELAÇÃO DE TODOS OS PRODUTOS</h1>
 
             <div className="produto_card_container">
                 {produtos.map(produto => (
