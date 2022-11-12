@@ -1,8 +1,9 @@
-# 🚀 <Vem.Ser=Dev/> Liga Digital 2022
+# 🚀 <Vem.Ser=Dev/> A Liga Digital 2022
 
 ## Sobre o projeto
 Projeto final - Criação de uma API <br/>
-🍓 Lista de compras de um Hortifruti 🛒🍉🍇  
+🍓 Lista de compras de um Hortifruti 🛒🍉🍇 </br> 
+criado como projeto final do Bootcamp da A liga digital em parceria com o Grupo DPSP. 
 <br/>
 
 <!-- 
