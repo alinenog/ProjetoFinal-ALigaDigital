@@ -1,32 +1,43 @@
-# 🚀 Projeto Final <Vem.Ser=Dev/> Liga Digital 
+# 🚀 <Vem.Ser=Dev/> Liga Digital 2022
 
+## Sobre o projeto
+Projeto final - Criação de uma API <br/>
+🍓 Lista de compras de um Hortifruti 🛒🍉🍇  
+<br/>
+
+<!-- 
+## Layout do projeto
 <div>
+<p align="heigth">
+  <img src="assets/Layout.png " width="150" title="hover text">
+</p>
+</div> -->
 
- <h2> Criação de uma Api </h2>
-🍓 Lista de Hortifruti 🛒 🍉🍇  <br/><br/>
- <br/>
+## Como executar o programa 
 
-### 🚧 Para rodar a aplicação será necessário instalar: <br/>
-✔️ npm install  
-</div>
-____________________________________________________________________
-
-### Rodando a aplicação
+Instalar Npm
+```bash
+npm install  
+```
 
 - `Iniciar o back-end`<br/>
-Dentro da pasta back-end rode o seginte comando <br>
-✔️npm run start:dev
+Dentro do diretório back-end rode o seguinte comando <br>
+
+```bash
+npm run start:dev
+```
 
 - `Iniciar o frond-end`<br/>
-Dentro da pasta front-end/orti-frutti rode o seginte comando <br>
- ✔️npm start
-  <br> <br>
+Dentro da pasta front-end/orti-frutti rode o seguinte comando <br>
 
-### ✳️ Informação adicionais
-Primeiramente é necessário rodar o Back-end e em seguida rodar o Front-end 
-<br> <br>
+```bash
+npm start
+```
 
-##  Linguagens | Framework  | Ferramentas
+✳️ Primeiramente é necessário rodar o Back-end e somente em seguida rodar o Front-end 
+</br> </br> 
+
+## Tecnologias usadas
 <div  display: inline-block>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -41,3 +52,8 @@ Primeiramente é necessário rodar o Back-end e em seguida rodar o Front-end
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/<DBeaver>-<light blue>">
 </div>
+
+</br>
+
+### Autora
+Aline Nogueir@ 👩🏻‍💻
